@@ -1,1 +1,3 @@
-# learning react
+# output
+
+./screenshots/output.png
