@@ -10,8 +10,11 @@ function App() {
 
   return (
     <>
+    <div className = "flex justify-center gap-4 mt-4">
       <Card title = "card1"/>
+      <Card title = "card2"/>
       <Card />
+    </div>
     </>
   )
 }
