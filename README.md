@@ -1,3 +1,3 @@
 # output
 
-./screenshots/output.png
+![Output Screenshot](./screenshots/output.png)
